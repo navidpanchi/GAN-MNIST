@@ -4,4 +4,4 @@ This is a simple implementation of GAN for generation of handwritten digit datas
 ### prerequisite
 - pytorch (0.4.1) (install intructions : https://github.com/williamFalcon/pytorch-gpu-install/blob/master/README.md)
 
-Note : GitHub is unable to render the notebook for some unknown reason so you can copy this link(https://github.com/navidpanchi/GAN-MNIST/blob/master/Mnist_GAN.ipynb) to https://nbviewer.jupyter.org/ and go through it there.
+Note : If GitHub is unable to render the notebook for some reason, you can copy this link(https://github.com/navidpanchi/GAN-MNIST/blob/master/Mnist_GAN.ipynb) to https://nbviewer.jupyter.org/ and go through it there.
